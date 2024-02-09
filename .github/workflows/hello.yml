@@ -28,4 +28,4 @@ jobs:
                   script: |
                       cd /home/ubuntu/practice
                       git pull
-                      python3 hello.py
+                      python3 *.py
